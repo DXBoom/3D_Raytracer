@@ -1,0 +1,16 @@
+C:\Users\adria\source\repos\Raytracer_AR\Raytracer\obj\Debug\Raytracer.csprojAssemblyReference.cache
+C:\Users\adria\source\repos\Raytracer_AR\Raytracer\obj\Debug\Raytracer.csproj.CoreCompileInputs.cache
+C:\Users\adria\source\repos\Raytracer_AR\Raytracer\bin\Debug\Raytracer.exe.config
+C:\Users\adria\source\repos\Raytracer_AR\Raytracer\bin\Debug\Raytracer.exe
+C:\Users\adria\source\repos\Raytracer_AR\Raytracer\bin\Debug\Raytracer.pdb
+C:\Users\adria\source\repos\Raytracer_AR\Raytracer\obj\Debug\Raytracer.exe
+C:\Users\adria\source\repos\Raytracer_AR\Raytracer\obj\Debug\Raytracer.pdb
+D:\Studia\Semestr 1\Fotorealistyczna grafika komputerowa\Raytracer_AR\Raytracer\obj\Debug\Raytracer.exe
+D:\Studia\Semestr 1\Fotorealistyczna grafika komputerowa\Raytracer_AR\Raytracer\obj\Debug\Raytracer.pdb
+D:\Studia\Semestr1\Fotorealistyczna_grafika_komputerowa\Raytracer_AR\Raytracer\bin\Debug\Raytracer.exe.config
+D:\Studia\Semestr1\Fotorealistyczna_grafika_komputerowa\Raytracer_AR\Raytracer\bin\Debug\Raytracer.exe
+D:\Studia\Semestr1\Fotorealistyczna_grafika_komputerowa\Raytracer_AR\Raytracer\bin\Debug\Raytracer.pdb
+D:\Studia\Semestr1\Fotorealistyczna_grafika_komputerowa\Raytracer_AR\Raytracer\obj\Debug\Raytracer.csprojAssemblyReference.cache
+D:\Studia\Semestr1\Fotorealistyczna_grafika_komputerowa\Raytracer_AR\Raytracer\obj\Debug\Raytracer.csproj.CoreCompileInputs.cache
+D:\Studia\Semestr1\Fotorealistyczna_grafika_komputerowa\Raytracer_AR\Raytracer\obj\Debug\Raytracer.exe
+D:\Studia\Semestr1\Fotorealistyczna_grafika_komputerowa\Raytracer_AR\Raytracer\obj\Debug\Raytracer.pdb
